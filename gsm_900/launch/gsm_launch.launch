@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="gsm_900"  name="gsm_node"  type = "gsm_node.py"  output="screen"/>
+</launch>
